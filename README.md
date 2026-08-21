@@ -1,4 +1,7 @@
 # AutoCopyFail
+
+you need to chmod +x AutoCopyFail.sh
+
 This shell script is designed to run CopyFail automatically.
 This script does not work on kernel 6 or higher.
 
